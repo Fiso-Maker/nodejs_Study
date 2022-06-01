@@ -1,4 +1,4 @@
-const http = require("http"); // App 파일생성과 리다이렉션
+const http = require("http"); // MySQL로 홈페이지 구현
 const fs = require("fs");
 const url = require("url");
 const qs = require("querystring");
